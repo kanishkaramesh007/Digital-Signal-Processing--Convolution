@@ -61,8 +61,11 @@ title('linear convolution');
 ```
 
 ## OUTPUT:
-![WhatsApp Image 2026-04-02 at 6 21 11 PM](https://github.com/user-attachments/assets/f9f860ed-44c5-4da1-a31f-237abb74a431)
+![WhatsApp Image 2026-04-02 at 6 27 27 PM](https://github.com/user-attachments/assets/bf50bafd-86f7-4b81-8882-cc7d8163bb4d)
+![WhatsApp Image 2026-04-02 at 6 27 47 PM](https://github.com/user-attachments/assets/35812d18-4e4b-4264-859f-d4215b17fe69)
+![WhatsApp Image 2026-04-02 at 6 28 13 PM](https://github.com/user-attachments/assets/57876144-35dc-4c24-8219-96556e6a362a)
+
 
 
 ## RESULT:
-
+![WhatsApp Image 2026-04-02 at 6 21 11 PM](https://github.com/user-attachments/assets/f9f860ed-44c5-4da1-a31f-237abb74a431)
